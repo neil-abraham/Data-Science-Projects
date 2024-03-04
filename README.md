@@ -1,7 +1,17 @@
+### Data Science and Analysis Projects
+
+| Project Name                    | Dataset URL                                                     |
+|--------------------------------|-----------------------------------------------------------------|
+| Loan Risk Analysis - EDA and ML Insights | [Loan Risk Dataset](https://www.kaggle.com/datasets/yaminh/applicant-details-for-loan-approve)           |
+| Social Media Time Addiction - EDA       | [Social Media Dataset](https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media) |
+| Supermarket Sales Segmentation - Customer Insights | [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)       |
+| UCI Heart Disease - EDA and ML Insights   | [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)          |
+| Titanic Disaster Prediction              | [Titanic Dataset](https://www.kaggle.com/competitions/titanic)        |
+
 ### Questions to Ask During Exploratory Data Analysis (EDA)
 
 1. **Dataset Size and Structure:**
-   - How many observations (rows) and variables (columns) are there?
+   - How many observations (rows) and variables (columns) exist?
    - What are the data types of the variables?
    - Are there any missing values or outliers?
 
